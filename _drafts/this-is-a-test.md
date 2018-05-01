@@ -18,3 +18,7 @@ How do you WYSIWYG?
 Ideally this would be source, but probably not
 
 \`\`\`
+
+```
+But this totally should be source formatted!
+```
