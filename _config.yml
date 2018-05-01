@@ -19,6 +19,6 @@ github_username:  jekyll
 
 # Build settings
 markdown: kramdown
-remote_theme: hanuman
+remote_theme: samanyougarg/hanuman
 plugins:
   - jekyll-remote-theme
