@@ -35,3 +35,13 @@ favicon: assets/images/favicon.png
 baseurl: "/" # the subpath of your site, e.g. /blog/ or / for root
 url: "http://freezing-stone.cloudvent.net" # the base hostname & protocol for your site
 paginate:	5 # The number of posts to show per page on your homepage
+# Settings for rake task
+safe: False
+lsi: False
+username: tgoff #github username
+repo: multifaceted_john #github repository
+branch: master #branch
+relative_source: ../hanuman/ #source directory
+#destination: ../hanuman-pages/ #destination directory
+#production_url:  https://samanyougarg.com/
+source_url:  https://github.com/tgoff/multifaceted_john #source repository url
